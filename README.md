@@ -4,7 +4,7 @@ Hi 👋 My name is Andrew Bui
 Software Engineer Immersive Student
 -----------------------------------
 
-I recently graduated from the University of Oregon with a double major in Spatial Data Science + Technology and Geographic Information Science, I have always had a passion for technology and I am currently enrolled in General Assembly full-time Software Engineer Immersive program for the summer!
+I recently graduated from the University of Oregon with a double major in Spatial Data Science + Technology and Geographic Information Science, since I can remember I always had a passion for technology and I am currently enrolled in General Assembly full-time Software Engineer Immersive program for the summer!
 
 * 🌍  I'm based in Oregon
 * ✉️  You can contact me at [andrewbui389@gmail.com](mailto:andrewbui389@gmail.com)
