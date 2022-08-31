@@ -8,7 +8,6 @@ I recently graduated from the University of Oregon with a double major in Spatia
 
 * 🌍  I'm based in Oregon
 * ✉️  You can contact me at [andrewbui389@gmail.com](mailto:andrewbui389@gmail.com)
-* 🧠  I'm learning Python, Django, Node.js, MongoDB, Mongoose, React, and Express.js
 * ⚡  I love snowboarding, star wars, video games (RPG, FPS, almost anything). Along with exercising, I love to go for lifts and runs
 
 ### Skills
